@@ -14,7 +14,7 @@ document.getElementById("surprise-btn").addEventListener("click", function () {
 
         const popupBody = document.createElement("div");
         popupBody.classList.add("popup-body");
-        popupBody.innerText = "Nhớ nhớ nhớ em";
+        popupBody.innerText = "Nhớ nhớ nhớ Vanh";
 
         popup.appendChild(popupHeader);
         popup.appendChild(popupBody);
